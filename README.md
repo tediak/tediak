@@ -1,4 +1,8 @@
-### Hi there 👋
+### Ivan Yadzvinsky | Data Engineer at [@DRL](https://github.com/dataroot "@DRL")
+
+## Tech stack
+- Scala
+- Node.js
 
 <!--
 **tediak/tediak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
