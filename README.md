@@ -1,4 +1,4 @@
-### Ivan Yadzvinsky | Data Engineer at [@DRL](https://github.com/dataroot "@DRL")
+### Ivan Yadzvinsky | Backend Engineer at [@artkai](https://artkai.io)
 
 ## Tech stack
 - Scala
